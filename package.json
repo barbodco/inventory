@@ -26,7 +26,6 @@
     "grunt-svgmin": "^2.0.0",
     "grunt-usemin": "^3.0.0",
     "grunt-wiredep": "^2.0.0",
-    "gulp": "^3.9.0",
     "jshint-stylish": "^1.0.0",
     "karma-jasmine": "*",
     "karma-phantomjs-launcher": "*",
